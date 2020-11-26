@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+I have nothing to tell about myself, because I am a dummy.
